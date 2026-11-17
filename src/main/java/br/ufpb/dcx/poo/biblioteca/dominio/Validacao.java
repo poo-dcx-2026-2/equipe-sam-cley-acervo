@@ -2,7 +2,7 @@ package br.ufpb.dcx.poo.biblioteca.dominio;
 
 import br.ufpb.dcx.poo.biblioteca.contrato.excecoes.DadosInvalidosException;
 
-/** Validações de entrada compartilhadas pelo domínio e pelos serviços. até o momento, ok. */
+/** Validações de entrada compartilhadas pelo domínio e pelos serviços. */
 
 
 public final class Validacao {
