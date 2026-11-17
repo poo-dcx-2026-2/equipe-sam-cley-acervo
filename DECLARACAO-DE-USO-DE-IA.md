@@ -37,7 +37,7 @@ Uma linha por uso relevante. Se não houve uso, escreva "Não houve uso de ferra
 - 
 
 ## O que a equipe mudou em relação ao que a IA sugeriu
-- [colocamos nossa propria regra de negócio e outras coisas, como diminuir linhas de códigos desnecessárias para limpar o código]
+- colocamos nossa própria regra de negócio e outras coisas, como diminuir linhas de códigos desnecessárias para limpar o código
 - adaptou o que foi gerado ao contrato e às decisões de design do projeto;
 - está ciente de que cada integrante fará uma alteração individual em sala.
 
